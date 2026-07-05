@@ -21,18 +21,6 @@ Use Databricks SQL Warehouse and Delta Lake as the analytical data warehouse for
 ### Workflow Orchestration
 Master orchestration and automation of data pipelines using Databricks Jobs, enabling reliable scheduling, monitoring, and dependency management.
 
-### Data Pipeline Testing
-Implement robust testing strategies including:
-
-- Unit Testing with Pytest
-- Integration Testing
-- End-to-End (E2E) Testing
-- Databricks Notebook Validation
-
-to ensure data pipeline reliability and accuracy.
-
-### Data Quality Validation
-Use Soda Core to implement automated data quality checks that validate business rules, schema integrity, completeness, and data freshness.
 
 ### CI/CD Automation
 Implement GitHub Actions to automate:
@@ -57,8 +45,6 @@ for Databricks assets and data pipelines.
 | Data Lakehouse | Databricks Delta Lake |
 | Data Warehouse | Databricks SQL Warehouse |
 | Orchestration | Databricks Jobs |
-| Testing | Pytest |
-| Data Quality | Soda Core |
 | CI/CD | GitHub Actions |
 | Version Control | Git & GitHub |
 
@@ -108,3 +94,5 @@ Analytics & Reporting
 - Apply DataOps and modern data engineering best practices.
 
 ---
+Final Dashboard:
+<img width="1737" height="814" alt="image" src="https://github.com/user-attachments/assets/2546befe-5b8c-4d49-bd7d-93c91375d87f" />
